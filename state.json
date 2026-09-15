@@ -1,6 +1,6 @@
 {
   "digikey_in_stock": false,
   "mouser_in_stock": false,
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "failure_alerted": false
 }
